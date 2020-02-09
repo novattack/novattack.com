@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to NovAttack
 
-You can use the [editor on GitHub](https://github.com/novattack/novattack.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The NovAttack platform requires minimal setup time and few resources to implement. We love open source. So NovAttack is open source, it will remain open source.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NovAttack simulates real cyber attacks, focusing on the following attack categories.
 
-### Markdown
+## Features / Test Capabilities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- IPS / IDS / Firewall 
+- Malware Download
+- Content Filtering
+- DLP (Data Loss Protection)
+- WAF (Web Application Firewall) / Roadmap
 
-```markdown
-Syntax highlighted code block
+## How does NovAttack work?
 
-# Header 1
-## Header 2
-### Header 3
+NovAttack advocates the open source philosophy. Uses the capabilities of python and libraries. All communication is prepared with API.
 
-- Bulleted
-- List
+NovAttack simulates cyber attacks with its point-to-point connection. Thus, it reduces the amount of false positive. Attack vectors in it can be edited and updated.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/novattack/novattack.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- You can provide continuous cyber attack simulation by adding current malware to NovAttack.
+- You can develop DLP vectors specific to your organization, such as credit card leak). NovAttack provides continuous analysis for you.
+- You can test your institution's content or URL filter.
