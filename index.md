@@ -2,7 +2,7 @@
 
 <p align="center">
     <br><br>
-    <img src="logo2.png">
+    <img src="logo1.png">
 </p>
 
 The NovAttack platform requires minimal setup time and few resources to implement. We love open source. So NovAttack is open source, it will remain open source.
