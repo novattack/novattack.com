@@ -30,5 +30,7 @@ NovAttack simulates cyber attacks with its point-to-point connection. Thus, it r
 
 If you want to be added to this list, we are waiting for your support. You can contact us at info@novattack.com.
 
-| Mustafa Altinkaynak | Ömer Faruk Er | Recep Tiryaki |
-|---------------------|---------------|---------------|
+- Mustafa Altinkaynak
+- Ömer Faruk Er
+- Recep Tiryaki
+- Melih Tas
