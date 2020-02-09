@@ -1,7 +1,6 @@
 ## Welcome to NovAttack
 
 <p align="center">
-    <br><br>
     <img src="logo1.png">
 </p>
 
