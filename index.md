@@ -25,3 +25,10 @@ NovAttack simulates cyber attacks with its point-to-point connection. Thus, it r
 - You can provide continuous cyber attack simulation by adding current malware to NovAttack.
 - You can develop DLP vectors specific to your organization, such as credit card leak). NovAttack provides continuous analysis for you.
 - You can test your institution's content or URL filter.
+
+## Supporters
+
+If you want to be added to this list, we are waiting for your support. You can contact us at info@novattack.com.
+
+| Mustafa Altinkaynak | Ömer Faruk Er | Recep Tiryaki |
+|---------------------|---------------|---------------|
